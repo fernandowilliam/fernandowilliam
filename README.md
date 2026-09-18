@@ -6,7 +6,7 @@ Trabalho o ciclo inteiro: diagnóstico do processo, decisão de onde a IA gera v
 
 ## O que está em produção hoje
 
-Agentes de atendimento e qualificação, pipelines de RAG e integrações com CRM para empresas de varejo, direito, saúde e e-commerce, no Brasil e em Portugal. Alguns números que consigo defender com dado de origem:
+Agentes de atendimento e qualificação, pipelines de RAG e integrações com CRM para empresas de varejo, direito, saúde e e-commerce, no Brasil e em Portugal. O núcleo é Python e PostgreSQL atrás de APIs próprias; onde o cliente já opera n8n, a orquestração dos fluxos fica nele e o código de decisão continua fora. Alguns números que consigo defender com dado de origem:
 
 - 13 tenants em operação e 36.120 execuções de workflows de agente em uma semana (31/08 a 06/09/2026), medidas na base de execuções da plataforma.
 - Classificador de conversas com 85% de concordância contra 393 rótulos humanos em 2.019 conversas, contra 45% do classificador por palavra-chave que substituiu.
@@ -23,7 +23,9 @@ Agentes de atendimento e qualificação, pipelines de RAG e integrações com CR
 
 ## Stack
 
-Python, SQL, PostgreSQL e Supabase (pgvector), BigQuery, FastAPI, Node.js, n8n, APIs REST, Model Context Protocol (MCP), LLMs da OpenAI, Anthropic e Google, Docker, Kubernetes, Terraform, Linux.
+Python (FastAPI, pandas, scikit-learn), SQL e PostgreSQL (pgvector), JavaScript e TypeScript (Node.js, Next.js, HTML e CSS), APIs REST, Model Context Protocol (MCP), LLMs da OpenAI, Anthropic e Google, Docker, Kubernetes, Terraform, Linux.
+
+Também uso BigQuery, Supabase e n8n quando o ambiente do cliente pede.
 
 ## Formação
 

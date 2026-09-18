@@ -18,15 +18,7 @@ Alguns números, com a origem de cada um:
 
 ## Projetos
 
-Agentic Harness corporativo. Framework de governança e execução para dezenas de agentes operando em ambiente corporativo e de engenharia. Três camadas (regras, orquestração e execução), sandboxing de contexto, integrações via MCP, CI/CD que gera changelog semântico, e aprovação humana obrigatória em operação destrutiva ou sobre banco de dados. É o ambiente onde o trabalho do dia a dia roda.
-
-LegalAssist AI. Agentes para qualificação comercial, atendimento, agendamento e processos internos de escritórios jurídicos, com painel de leads, integração a CRM e geração de documentos. Claude, LangChain, Pinecone, Next.js e MongoDB.
-
-OmniSales AI. Atendimento com conhecimento de catálogo, recomendação e segmentação dinâmica para e-commerce. GPT, RAG com function calling, Python, FastAPI e BigQuery.
-
-PharmFlow AI, em andamento. Atendimento e orçamento automatizado de receitas para farmácia de manipulação, verificação de fórmulas, previsão de demanda e automação regulatória. Gemini 2.5 Flash com fine-tuning, TensorFlow e PostgreSQL.
-
-Relocation Agent, em andamento. Agente de imigração e relocation que atende, qualifica leads de anúncio, agenda e faz follow-up pelo WhatsApp. Grok 4, Airtable e WhatsMeow.
+Agentic Harness corporativo: framework de governança e execução para dezenas de agentes, com três camadas (regras, orquestração e execução), sandboxing de contexto, integrações via MCP e aprovação humana obrigatória em operação destrutiva. LegalAssist AI: agentes de qualificação, atendimento e geração de documentos para escritórios jurídicos (Claude, LangChain, Pinecone, Next.js, MongoDB). OmniSales AI: atendimento com conhecimento de catálogo e recomendação para e-commerce (GPT, RAG, FastAPI, BigQuery). Em andamento: PharmFlow AI, orçamento automatizado de receitas para farmácia de manipulação (Gemini 2.5 Flash com fine-tuning, TensorFlow, PostgreSQL), e um agente de imigração e relocation no WhatsApp (Grok 4, Airtable, WhatsMeow).
 
 ## Como trabalho
 
@@ -36,13 +28,9 @@ Prefiro testar uma hipótese antes de escrever código, e não afirmo nada sobre
 
 Python (FastAPI, LangChain, pandas, scikit-learn, TensorFlow), SQL e PostgreSQL com pgvector, JavaScript e TypeScript (Node.js, Next.js, HTML e CSS), APIs REST e webhooks, function calling e Model Context Protocol (MCP), modelos da OpenAI, Anthropic, Google, Meta, Mistral e xAI, bancos vetoriais (pgvector, Pinecone, Chroma), MongoDB, Docker, Kubernetes, Terraform, Ansible e Linux. Monitoramento com Zabbix, Prometheus e Grafana. Também uso BigQuery, Supabase e n8n quando o ambiente do cliente pede.
 
-## Antes da IA
-
-Entre 2020 e 2024 liderei infraestrutura e segurança da informação no Exército Brasileiro: cerca de 15 sistemas em servidores Linux virtualizados com deploy por script, versionamento em git, monitoramento com Zabbix e orquestração com Kubernetes; migração de parte deles para containers e nuvem (AWS e Azure); e um data warehouse que alimentou painéis em tempo real para a tomada de decisão. Antes, dez anos na Lima & Zanette, de administrador de sistemas a gestor de TI, com SQL, Python, JavaScript, ITIL, Scrum e a migração da infraestrutura local para nuvem. Em 2024 e 2025, consultoria de infraestrutura híbrida em Braga, Portugal, com Azure, VMware, Fortinet e Veeam.
-
 ## Formação
 
-Sistemas de Informação (UniFOA, 2017), pós-graduação em Segurança da Informação (Estácio, 2021) e tecnólogo em Redes de Computadores (UniFOA, 2011). Mestrado em IA em andamento. Certificação MCITP Enterprise Administrator (Microsoft). Português nativo, inglês B2, espanhol A2.
+Sistemas de Informação (UniFOA, 2017), pós-graduação em Segurança da Informação (Estácio, 2021), mestrado em IA em andamento. Certificação MCITP Enterprise Administrator. Inglês B2.
 
 ## Contato
 

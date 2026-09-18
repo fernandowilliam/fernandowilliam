@@ -22,7 +22,7 @@ Prefiro testar uma hipótese antes de escrever código, e não afirmo nada sobre
 
 ## Stack
 
-Python (FastAPI, pandas, scikit-learn), SQL e PostgreSQL com pgvector, JavaScript e TypeScript (Node.js, Next.js, HTML e CSS), APIs REST, Model Context Protocol (MCP), modelos da OpenAI, Anthropic e Google, Docker, Kubernetes, Terraform e Linux. Também uso BigQuery, Supabase e n8n quando o ambiente do cliente pede.
+Python (FastAPI, LangChain, pandas, scikit-learn), SQL e PostgreSQL com pgvector, JavaScript e TypeScript (Node.js, Next.js, HTML e CSS), APIs REST, Model Context Protocol (MCP), modelos da OpenAI, Anthropic e Google, Docker, Kubernetes, Terraform e Linux. Também uso BigQuery, Supabase e n8n quando o ambiente do cliente pede.
 
 ## Formação
 

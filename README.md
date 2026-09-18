@@ -36,4 +36,4 @@ Sistemas de Informação (UniFOA, 2017), pós-graduação em Segurança da Infor
 
 LinkedIn: https://www.linkedin.com/in/fernandowilliam/
 
-E-mail: fernando@atomai.digital
+E-mail: fernando.william84@gmail.com

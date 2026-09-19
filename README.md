@@ -13,6 +13,10 @@ Cada um com período e fonte, porque número sem isso não vale nada.
 - Erro de classificação de 28% para 16%, medido em teste A/B pareado e 45 dias de observação em produção.
 - Acionamento de atendimento humano validado em harness: 20 de 20 cenários corretos. O baseline falhava em 4 de 4.
 
+## Código público
+
+- [Triagem de tickets com abstenção](https://github.com/fernandowilliam/triagem-tickets-com-abstencao): classificador que decide sozinho 6 em cada 10 tickets, acerta 96 de cada 100 desses e devolve o resto para uma pessoa. Medido em 47.837 tickets públicos; inclui o LLM medido e retirado, a leitura dos erros que achou rótulo errado na origem e o piloto com regra de decisão.
+
 ## O que procuro
 
 Posição em que uma pessoa responde do diagnóstico ao resultado medido, junto à liderança: engenharia de soluções de IA, AI engineer, automação com agentes. São Paulo presencial ou remoto.
